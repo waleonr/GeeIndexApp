@@ -1,4 +1,4 @@
-# Gee Index App with Greeppo
+# Gee Index App with Greppo
 
 This repository contains code for the creation of a basic application using the greppo library, the environment was created and executed in ubuntu. The application was based on the use of products available in GEE (Google earth engine) for the extraction of altitude values and spectral indexes in a coordinate. 
 
